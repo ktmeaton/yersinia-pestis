@@ -1146,7 +1146,7 @@
     "display_defaults": {
       "branch_label": "none",
       "color_by": "population",
-      "distance_measure": "num_date",
+      "distance_measure": "div",
       "geo_resolution": "province",
       "layout": "rect",
       "map_triplicate": true,
